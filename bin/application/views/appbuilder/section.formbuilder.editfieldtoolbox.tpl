@@ -1,0 +1,1 @@
+<span class="configuration"> <span class="btn-group btn-group-xs"> <a class="btn btn-default" href="javascript:void(0);" onclick="javascript:handleEditDialogFromToolbox(this);return false;">[{'strEdit'|translate}]</span></a> </span> </span>

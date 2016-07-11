@@ -1,0 +1,1 @@
+[{if isset($appdesc) && !empty($appdesc)}]<small>[{$appdesc}]</small>[{/if}]

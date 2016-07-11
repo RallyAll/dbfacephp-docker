@@ -1,0 +1,1 @@
+<!DOCTYPE html> <html> <head> <meta charset="UTF-8"> <title>[{#title#}]</title> [{include file="inc/allcss.tpl"}] </head> <body class="skin-blue"> <div id="content"> </div> [{include file="inc/alljs.tpl"}] <script>var SID="[{$SID}]";$.post("?module=Dashboard&SID="+SID,function(a){$("#content").html(a)});dbface.sid=SID;</script> </body> </html>

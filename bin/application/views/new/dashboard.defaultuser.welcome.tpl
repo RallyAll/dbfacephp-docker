@@ -1,0 +1,1 @@
+<div class="row"> <div class="col-xs-12"> <div class="jumbotron"> <div class="pad"> [{if $userwelcome}] [{$userwelcome}] [{else}] [{include file="new/userwelcome.tpl"}] [{/if}] </div> </div> </div> </div>

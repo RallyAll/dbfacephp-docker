@@ -1,0 +1,1 @@
+[{if $_resultset || $embed}] [{include file="runtime/app.singlenumber.resultset.tpl"}] [{else}] <section class="col-sm-12" id="sec_resultset"> [{include file="runtime/app.singlenumber.resultset.tpl"}] </section> [{/if}]

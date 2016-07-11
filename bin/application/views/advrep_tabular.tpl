@@ -1,0 +1,1 @@
+<input type="hidden" name="app_scriptType" id="app_scriptType" value="[{$app_scriptType}]"/> <div class="row" style="margin:0px" id="dragandrophelperrow"> [{include file="appbuilder/script.builder.dd.fields.tpl"}] </div>

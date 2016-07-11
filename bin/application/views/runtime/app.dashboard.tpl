@@ -1,0 +1,1 @@
+[{include file="runtime/app.inc.previewbar.tpl"}] [{if $formHTML}] <section class="col-sm-12" id="sec_formhtml"> [{include file="runtime/app.form.tpl" targetID='#sec_dashboardhtml'}] </section> [{/if}] <section class="col-sm-12" id="sec_dashboardhtml"> [{if $dashboardhtml}][{include file="runtime/app.dashboard.result.tpl"}][{/if}] </section>

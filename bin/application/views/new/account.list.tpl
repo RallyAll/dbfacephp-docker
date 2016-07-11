@@ -1,0 +1,1 @@
+<section class="content-header"> <h1> Account <small>all sub accounts</small> </h1> <ol class="breadcrumb"> [{include file="inc/breadcrumbs.item.home.tpl"}] <li class="active">Account Manager</li> </ol> </section> <section class="content"> [{include file="new/box.accounts.tpl" notoolbox=true}] </section>

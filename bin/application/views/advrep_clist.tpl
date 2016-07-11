@@ -1,0 +1,1 @@
+<ul class="list-unstyled"> [{include file="appbuilder/advrep_clist.column.tpl"}] </ul>

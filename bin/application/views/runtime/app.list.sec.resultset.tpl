@@ -1,0 +1,1 @@
+[{include file="runtime/app.list.resultset.tpl"}]

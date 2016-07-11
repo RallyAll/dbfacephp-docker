@@ -1,0 +1,3 @@
+Please edit config/config.php
+$config['chart_provider'] = 'default';
+If you do not have Highcharts license for your commercial projects.

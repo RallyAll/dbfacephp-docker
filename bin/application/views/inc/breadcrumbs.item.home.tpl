@@ -1,0 +1,1 @@
+<li><a href="#module=Dashboard&action=index" name="?module=Dashboard&action=index" onclick="javascript:return dbfaceMenu.onItemClick(this);"><i class="fa fa-dashboard"></i> [{'strHome'|translate}]</a></li>

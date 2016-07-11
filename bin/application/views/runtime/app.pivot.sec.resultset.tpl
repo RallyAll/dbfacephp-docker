@@ -1,0 +1,1 @@
+[{if $_resultset}] [{include file="runtime/app.pivot.resultset.tpl"}] [{else}] <section class="col-sm-12" id="sec_resultset"> [{include file="runtime/app.pivot.resultset.tpl"}] </section> [{/if}]

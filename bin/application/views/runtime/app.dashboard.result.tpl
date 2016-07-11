@@ -1,0 +1,1 @@
+[{$dashboardhtml}] <script>$(function(){var a=$("#sec_dashboardhtml").find(".appbox_main");$.each(a,function(b,d){var c=$(d).attr("data-appid");$(d).load("?module=App&appid="+c+"&embed=1")})});</script>

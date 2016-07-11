@@ -1,0 +1,1 @@
+<header> <nav id="main-nav" class="navbar navbar-default" role="navigation"> <div class="pull-right"> <a href="http://www.dbface.com" title="DbFace - report and dashboard builder for MySQL and other databases."><img id="navbar-logo" src="[{#s_base#}]/website/dbface_logo.png"></a> </div> </nav> </header>

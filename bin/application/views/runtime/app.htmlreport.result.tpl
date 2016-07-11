@@ -1,0 +1,1 @@
+[{$htmlreport}] <script>$(function(){$("img.ck_query_img").each(function(c,g){var b=$(g).attr("cke_query_script");var d=$(g).attr("cke_query_width");var a=$(g).attr("cke_query_height");var f=$(g).attr("cke_query_style");var e="[{$appid}]";$.post("?module=App&action=htmlreport",{s:b,w:d,h:a,d:f,appid:e},function(h){$(g).replaceWith(h)});$(g).hide()})});</script>

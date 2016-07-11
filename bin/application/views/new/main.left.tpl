@@ -1,0 +1,1 @@
+<aside class="left-side sidebar-offcanvas"> <section class="sidebar" id="sec_sidebar"> [{include file="new/main.left.applist.tpl"}] </section> </aside>

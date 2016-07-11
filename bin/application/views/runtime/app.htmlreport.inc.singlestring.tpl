@@ -1,0 +1,1 @@
+<b>[{$data_value}]([{$data_key}])</b>

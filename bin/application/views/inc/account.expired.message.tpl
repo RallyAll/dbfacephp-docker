@@ -1,0 +1,1 @@
+[{if isset($account_expired) && $account_expired}] <div class="callout callout-danger"> <h4>[{'strTrialTitle'|translate}]</h4> <p>[{'strTrialDesc'|translate}]</p> </div> [{/if}]

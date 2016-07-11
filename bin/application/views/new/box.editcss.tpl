@@ -1,0 +1,1 @@
+<div class="box box-solid"> <div class="box-body"> <a type="button" name="?module=CssEditor" href="#module=CssEditor" class="btn btn-info btn-flat btn-block">[{'strEditCss'|translate}]</a> </div> </div>

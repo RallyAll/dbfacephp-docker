@@ -1,0 +1,1 @@
+[{if $showresultset}] [{include file="runtime/app.singlenumber.sec.resultset.tpl"}] [{/if}]

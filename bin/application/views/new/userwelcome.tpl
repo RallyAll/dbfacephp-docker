@@ -1,0 +1,1 @@
+<h1>Welcome!</h1> <p>This is the default welcome page for users. </p> <p>You can define your own welcome page for users at Settings -> System Settings using Administrator account.</p>

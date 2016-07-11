@@ -1,0 +1,1 @@
+[{if $previewmode}] <div class="col-sm-12" style="padding-bottom:10px"> <a class="btn btn-info btn-flat btn-block" onclick="javascript:return exitPreviewMode();">[{'strExitPreview'|translate}]</a> </div> [{/if}]

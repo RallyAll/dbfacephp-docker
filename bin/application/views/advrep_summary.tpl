@@ -1,0 +1,1 @@
+[{include file="appbuilder/script.builder.dd.tabular.tpl"}] [{include file="appbuilder/script.builder.dd.summary.tpl"}] [{include file="appbuilder/script.builder.dd.pivot.tpl"}] [{include file="appbuilder/script.builder.dd.chart.tpl"}] [{include file="appbuilder/script.builder.dd.googlemap.tpl"}]

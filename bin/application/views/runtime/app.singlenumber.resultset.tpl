@@ -1,0 +1,1 @@
+<div class="text-center"> [{if $singlenumber_linkapp}] <span class="single_number">[{$data_value}]</span><p><a href="javascript:;" onclick="javascript:openLinkedApp('[{$singlenumber_linkapp}]', '[{$data_value}]')"> [{$data_key}]</a></p> [{else}] <span class="single_number"> [{$data_value}]</span><p>[{$data_key}]</p> [{/if}] </div> <div id="previewdialog"></div>

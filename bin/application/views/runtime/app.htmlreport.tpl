@@ -1,0 +1,1 @@
+[{if $htmlreport}][{include file="runtime/app.htmlreport.result.tpl"}][{/if}]

@@ -1,0 +1,1 @@
+<div class="box box-solid box-[{$box_style}]"> <div class="box-header"> <h3 class="box-title">Result</h3> <div class="box-tools pull-right"> <button class="btn btn-[{$box_style}] btn-sm" onclick="javascript:removeBox(this);"><i class="fa fa-times"></i></button> </div> </div> <div class="box-body"> [{$resultmessage}] </div> </div>

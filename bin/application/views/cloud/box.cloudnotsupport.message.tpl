@@ -1,0 +1,1 @@
+[{if !$enable_cloudcode}] <div class="callout callout-danger"> <h4>Unsupported Feature</h4> <p>Your account does not support Cloud Code feature. The following cloud codes are only for demo purpose.</p> </div> [{/if}]

@@ -1,0 +1,1 @@
+<section class="content-header"> <h1> [{'strDashboard'|translate}] <small>Settings</small> </h1> <ol class="breadcrumb"> [{include file="inc/breadcrumbs.item.home.tpl"}] <li class="active">[{'strDashboard'|translate}]</li> </ol> </section> <section class="content"> [{include file="new/account.editprofile.profile.tpl" showHeader=TRUE}] </section>
